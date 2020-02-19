@@ -6,7 +6,7 @@ namespace Persons
     {
         //atributo
         private string name;
-        static public string bloodColor = "red";
+        static public string bloodColor = "Red";
         public Person(string name) {
         this.name = name;
         }
